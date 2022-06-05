@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Pastre
 - 👀 I’m interested in Data Science and Computer Networks
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, SQL, Machine Learning and much more!
 - 📫 You can reach me by mail (thiago.pastre@hotmail.com)
 
 <!---
